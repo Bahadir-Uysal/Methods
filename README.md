@@ -1,0 +1,1 @@
+#Training of js methods
